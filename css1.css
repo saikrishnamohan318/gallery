@@ -1,0 +1,60 @@
+main {
+    width: 1000px;
+    height: 1000px;
+    background-color: rgb(65, 61, 61);
+}
+.first {
+    padding-left: 125px;
+    padding-top: 125px;
+}
+.second {
+    padding-left: 125px;
+}
+.third {
+    padding-left: 125px;
+}
+.img1 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
+.img2 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
+.img3 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
+.img4 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
+.img5 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
+.img6 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
+.img7 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
+.img8 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
+.img9 {
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(35, 23, 209);
+}
